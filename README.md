@@ -3,6 +3,8 @@
 <!--
 **Benjamin-eecs/benjamin-eecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Benjamin-eecs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-eecs&show_icons=true)](https://github.com/Benjamin-eecs/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
