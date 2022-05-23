@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Benjamin-eecs&color=brightgreen)
+
 <!--
 **Benjamin-eecs/benjamin-eecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
